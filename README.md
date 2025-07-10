@@ -17,4 +17,4 @@
 ```bash
 python time_tracker.py
 ```
-### 2. exe 파일로 만들기
+### 2. exe 파일 실행
